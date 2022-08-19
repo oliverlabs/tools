@@ -18,6 +18,8 @@ experience for any user.
 The Sample Hub was primarily designed and built as a mobile app and is
 currently not optimized for desktop clients.
 
+[x] This is a test commit.
+
 Sample Hub scenarios
 =================
 
